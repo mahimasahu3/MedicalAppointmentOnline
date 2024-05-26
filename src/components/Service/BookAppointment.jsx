@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { FaSearch } from 'react-icons/fa';
 import BA from '../../assets/BookAppointments.jpg';
 import '../../style/BookAppointment.css';  // Import the CSS file

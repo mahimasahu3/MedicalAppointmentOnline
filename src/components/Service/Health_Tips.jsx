@@ -33,7 +33,7 @@ function Healthtips(){
                 </div>
             
         </div>
-    );
-};
+    )
+}
 
 export default Healthtips;
