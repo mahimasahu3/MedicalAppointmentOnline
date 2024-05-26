@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MedicalAppointmentOnline/static/css/main.f4655a1f.css",
+    "main.js": "/MedicalAppointmentOnline/static/js/main.85021146.js",
+    "static/js/453.5e560239.chunk.js": "/MedicalAppointmentOnline/static/js/453.5e560239.chunk.js",
+    "static/media/Self_Checkup.jpg": "/MedicalAppointmentOnline/static/media/Self_Checkup.007f6d20047fe162486b.jpg",
+    "static/media/BookAppointments.jpg": "/MedicalAppointmentOnline/static/media/BookAppointments.19da058a635bbd028305.jpg",
+    "static/media/Book_Appointment.jpg": "/MedicalAppointmentOnline/static/media/Book_Appointment.0a5918507d8b6a278bf2.jpg",
+    "static/media/Health_Tips.jpg": "/MedicalAppointmentOnline/static/media/Health_Tips.efe2f827db2311e9f1a1.jpg",
+    "static/media/Instant_Consultation.jpg": "/MedicalAppointmentOnline/static/media/Instant_Consultation.9a7cbf9569729da6c2ba.jpg",
+    "index.html": "/MedicalAppointmentOnline/index.html",
+    "main.f4655a1f.css.map": "/MedicalAppointmentOnline/static/css/main.f4655a1f.css.map",
+    "main.85021146.js.map": "/MedicalAppointmentOnline/static/js/main.85021146.js.map",
+    "453.5e560239.chunk.js.map": "/MedicalAppointmentOnline/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4655a1f.css",
+    "static/js/main.85021146.js"
+  ]
+}
