@@ -1,0 +1,62 @@
+/* NavBar.css */
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo {
+    height: 70px;
+    width: 70px;
+    margin-right: 1rem; /* Add margin for spacing */
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+}
+
+.nav-link {
+    color: #333;
+    text-decoration: none;
+    margin: 0 1rem;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #007bff;
+}
+
+/* Add border to SignUp and Login links */
+.nav-link.border {
+    border: 1px solid #007bff;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+}
+
+@media screen and (max-width: 1150px) {
+    .nav-container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .nav-link {
+        margin: 0.5rem 0;
+    }
+}
+
+@media screen and (min-width: 1150px) {
+    .nav-container {
+        flex-direction: row;
+    }
+}

@@ -1,0 +1,53 @@
+.container {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+   
+}
+
+.header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.search-container {
+    position: relative;
+    display: inline-block;
+}
+
+.icon {
+    margin-right: 8px;
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.search-input {
+    padding: 8px;
+    width: 300px;
+}
+
+.search-icon {
+    position: absolute;
+    right: 7px;
+    top: 330px;
+}
+
+.dropdown {
+    position: absolute;
+    top: 350px;
+    left: 0;
+    background-color: white;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.dropdown-item {
+    padding: 8px;
+    cursor: pointer;
+}
